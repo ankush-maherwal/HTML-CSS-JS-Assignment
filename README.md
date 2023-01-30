@@ -11,20 +11,20 @@ Go through the topics listed below **before starting** with the assignment
 
 *Assignment Part - 1*
 
-**Create a page using HTML / CSS and JS as given belwo (Use Bootstrap 5 to make ui responsive)**
+**Create a page using HTML / CSS and JS as given belwo (Use Bootstrap 5 to make UI responsive)**
 
 ![All-products-For-Multi-Vendor](https://user-images.githubusercontent.com/19546819/215413324-9670d53e-4ffa-4a18-b0a0-0cc99dd62c7a.png)
 
 
 *Assignment Part - 2*
 
-**Create a page using HTML / CSS and JS as given belwo (Use Bootstrap 5 to make ui responsive)**
+**Create a page using HTML / CSS and JS as given belwo (Use Bootstrap 5 to make UI responsive)**
 
 ![All-Events](https://user-images.githubusercontent.com/19546819/215413824-d3eabee0-22dc-4624-ae73-293159f5e62f.png)
 
 
 *Assignment Part - 3*
 
-**Create a page using HTML / CSS and JS as given belwo (Use Bootstrap 5 to make ui responsive)**
+**Create a page using HTML / CSS and JS as given belwo (Use Bootstrap 5 to make UI responsive)**
 
 ![My-Dashboard](https://user-images.githubusercontent.com/19546819/215414068-61b12d40-555c-4e1e-8763-35a729cc197d.png)
